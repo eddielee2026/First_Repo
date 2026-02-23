@@ -1,2 +1,3 @@
-console.log("I'm so hungry")
-console.log()
+function hello(){
+    console.log(hello)
+}
